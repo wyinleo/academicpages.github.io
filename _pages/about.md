@@ -3,9 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -65,7 +62,7 @@ I am currently a member of the security group led by [Prof. Yongqiang Lyu](https
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💼 Employments & Internships
+# 💼 Employments and Internships
 - *2026.03 - Now*, Assistant Professor, School of Cyber Security, Tianjin University.
 - *2024.11 - 2025.01*, Assistant Researcher, The Hong Kong Polytechnic University.
 - *2023.02 - 2024.02*, Research Intern, Ant Group.

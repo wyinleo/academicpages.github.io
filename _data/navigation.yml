@@ -1,19 +1,10 @@
 # main links
 main:
   - title: "About Me"
-    url: "#"
-
-  - title: "News"
-    url: "#"
+    url: "/"
 
   - title: "Publications"
-    url: "#"
+    url: "/publications"
 
-  - title: "Honors and Awards"
-    url: "#"
-
-  - title: "Educations"
-    url: "#"
-
-  - title: "Employments & Internships"
-    url: "#"
+  - title: "Projects"
+    url: "/projects"

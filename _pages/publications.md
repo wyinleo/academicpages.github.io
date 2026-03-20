@@ -1,8 +1,19 @@
 ---
-permalink: /pub_proj/
-title: "Publications & Projects"
-author_profile: true
+permalink: /publications/
+title: "Publications"
+excerpt: ""
+author_profile: false
 ---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 
 # 📝 Publications 
 
@@ -13,10 +24,6 @@ author_profile: true
 - **Yin Wang**, Ming Fan, Xicheng Zhang, Jifei Shi, Zhaoyu Qiu, Haijun Wang, Ting Liu. LiReDroid: LLM-Enhanced Test Case Generation for Static Sensitive Behavior Replication. Proceedings of the 15th Asia-Pacific Symposium on Internetware (Internetware 2024), pp. 81--84, 2024.
 - Ziqiang Yan, Ming Fan, **Yin Wang**, Jifei Shi, Haoran Wang, Ting Liu. MUID: Detecting Sensitive User Inputs in Miniapp Ecosystems. Proceedings of the 2023 ACM Workshop on Secure and Trustworthy Superapps (SaTS'23) , pp. 17--21, 2023. (Distinguished Paper Award).
 - Xi Xu, Ming Fan, Ang Jia, **Yin Wang**, Zheng Yan, Qinghua Zheng, Ting Liu. Revisiting the Challenges and Opportunities in Software Plagiarism Detection. 27th IEEE International Conference on Software Analysis, Evolution and Reengineering Early Research Achievement Track (SANER-ERA), pp. 537--541, 2020. (CCF B).
-
-# 🤝 Projects
-
-...
 
 # ✍️ Patents
 

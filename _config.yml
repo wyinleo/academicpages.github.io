@@ -6,7 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "- Yin Wang -"
+url                      : "https://wyinleo.github.io"
+baseurl                  : "/academicpages.github.io"
+title                    : "Yin Wang"
 description              : ""
 repository               : "wyinleo/academicpages.github.io"
 google_scholar_stats_use_cdn : true
