@@ -1,6 +1,6 @@
 ---
 permalink: /pub_proj/
-title: "Projects & Publications"
+title: "Publications & Projects"
 author_profile: true
 ---
 
