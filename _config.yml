@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yin Wang"
-  avatar           : "images/profile.jpg"
+  avatar           : "/academicpages.github.io/images/profile.jpg"
   bio              : "Tianjin University"
   location         : "Tianjin, China"
   employer         :
