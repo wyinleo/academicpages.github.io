@@ -16,7 +16,7 @@ author_profile: true
 
 I am an Assistant Professor at the School of Cyber Security, Tianjin University. I received my Ph.D. from Xi'an Jiaotong University, where I was fortunate to be advised by [Prof. Ting Liu](https://gr.xjtu.edu.cn/web/tingliu) and [A.Prof. Ming Fan](https://gr.xjtu.edu.cn/web/mingfan).
 
-My research interests lie at the intersection of **mobile security**, **privacy compliance**, and **program analysis**. More broadly, I am interested in building practical and principled techniques for understanding how software handles sensitive data, detecting privacy and security risks in modern application ecosystems, and improving the trustworthiness of intelligent systems.
+My research interests lie at the intersection of **mobile security**, **privacy compliance**, and **program analysis**.
 
 I am currently a member of the security group led by [Prof. Yongqiang Lyu](https://scholar.google.com/citations?user=YgM30QQAAAAJ&oi=ao). We are actively looking for motivated Ph.D. students, graduate students, and research interns who are interested in data security, privacy, and program analysis. If you are interested in joining our group, please feel free to contact me.
 
